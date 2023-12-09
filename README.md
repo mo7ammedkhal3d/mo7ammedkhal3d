@@ -1,7 +1,7 @@
 <h1 align="center"><pre>Hi 👋,
-      I'm Mohammed Khaled</pre></h1>
+                  I'm Mohammed Khaled</pre></h1>
 <h3 align="center">A passionate full-stack web developer from Yemen</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align="right" alt="Coding" width="400" style="border-radius:0.2rem" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo7ammedkhal3d&label=Profile%20views&color=0e75b6&style=flat" alt="mo7ammedkhal3d" /> </p>
 
