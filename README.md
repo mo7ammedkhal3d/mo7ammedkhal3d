@@ -1,8 +1,15 @@
-<img align="right" alt="Coding" width="120%" 
+<style>
+  .cover-img {
+    border-radius: 0.2rem;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+</style>
+<img class="cover-img" align="right" alt="Coding" width="120%" he
   src="https://img.freepik.com/premium-photo/coding-smart-screen-system-with-names-program-languages-3d_327483-800.jpg?w=996">
 <h1 align="left">
-<pre>      Hi 👋,
-                 I'm Mohammed Khaled</pre></h1>
+<pre>            Hi 👋,
+                       I'm Mohammed Khaled</pre></h1>
 <h3 align="center">A passionate full-stack web developer from Yemen</h3>
 <img align="right" alt="Coding" width="400" style="border-radius: 0.2rem;" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
