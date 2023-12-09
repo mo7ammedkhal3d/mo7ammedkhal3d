@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="120%" height="60vw"
+<img align="right" alt="Coding" width="120%" height="20rem"
   src="https://img.freepik.com/premium-photo/coding-smart-screen-system-with-names-program-languages-3d_327483-800.jpg?w=996">
 <h1 align="left">
 <pre>                  Hi 👋,
